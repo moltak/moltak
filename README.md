@@ -1,1 +1,1 @@
-https://github-readme-stats.vercel.app/api?username=moltak&show_icons=true&theme=cobalt
+![moltak's github stats](https://github-readme-stats.vercel.app/api?username=moltak&show_icons=true&theme=cobalt)
